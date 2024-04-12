@@ -39,8 +39,4 @@ The internship program at CodeAlpha revolves around completing three tasks desig
 
 ## Conclusion
 
-My internship at CodeAlpha was a valuable learning experience that deepened my understanding of cybersecurity principles and practices. I'm grateful for the opportunity to contribute to meaningful projects and look forward to applying the knowledge and skills I've gained in my future endeavors.
-
-* * *
-
-&nbsp;
+My internship at CodeAlpha was a valuable learning experience that deepened my understanding of cybersecurity principles and practices. I'm grateful for the opportunity to contribute to meaningful projects and look forward to applying the knowledge and skills I've gained in my future endeavours.
